@@ -1,0 +1,16 @@
+{
+  "name": "do-dns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node $npm_package_main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "do-wrapper": "^3.11.1",
+    "dotenv": "^5.0.1"
+  }
+}
